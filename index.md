@@ -10,7 +10,7 @@ My name is Navika Budhraja and I'm a second year computer science major at the [
 
 ## Sports
 
-Ever since I was young, I always had a passion for sports, especially soccer and basketball. As a result, I have become an avid NBA fan, and in particular, I have been a die-hard *Golden-State Warriors* fan since birth. 
+Ever since I was young, I always had a passion for sports, especially soccer and basketball. As a result, I have become an avid NBA fan, and in particular, I have been a die-hard **Golden-State Warriors** fan since birth. 
 
 <img src="/images/warriors.png" width="200"/>
 
@@ -44,7 +44,7 @@ With my free time, I love listening to music and learning about music production
      <img src="/images/more.jpg" width="200"/>
 
 
-Every month, I make myself a task-list of new albums that are recomended to me or sound interesting. This is my task list from this past month: 
+Every month, I make myself a task-list of new albums that are recomended to me or sound *interesting*. This is my task list from this past month: 
 
 - [x] Heaux Tales by Jazmine Sullivan 
 - [x] The Allegory by Royce da 5'9 
