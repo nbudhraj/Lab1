@@ -6,14 +6,15 @@ My name is Navika Budhraja and I'm a second year computer science major at the [
 - [Music](#music)
 - [Programming](#programming)
 - ***Spending time with friends and family!***
+- ~~Taking naps~~
 
 ## Sports
 
-Ever since I was young, I always had a passion for sports, especially soccer and basketball. As a result, I have become an avid NBA fan, and in particular, I have been a die-hard Golden-State Warriors fan since birth. 
+Ever since I was young, I always had a passion for sports, especially soccer and basketball. As a result, I have become an avid NBA fan, and in particular, I have been a die-hard *Golden-State Warriors* fan since birth. 
 
 <img src="/images/warriors.png" width="200"/>
 
-Recently, I have become quite interested in the **intersection** of Sports and Tech. This year [Dapper Labs](https://www.dapperlabs.com/), a block-chain company, partened with the NBA to develop [NBA Topshot](https://nbatopshot.com/), a marketplace that sells NFTs of NBA highlights as collectables. Here is an interesting quote from a CNBC article discussing NBA Topshot in which Tom Richardson, a professor in digital media at Columbia University, speaks on the popularity of NBA Topshot:
+Recently, I have become quite interested in **the _intersection_ of Sports and Tech**. This year [Dapper Labs](https://www.dapperlabs.com/), a block-chain company, partened with the NBA to develop [NBA Topshot](https://nbatopshot.com/), a marketplace that sells NFTs of NBA highlights as collectables. Here is an interesting quote from a CNBC article discussing NBA Topshot in which Tom Richardson, a professor in digital media at Columbia University, speaks on the popularity of NBA Topshot:
 
 >“'One of the things that have defined the digital era is we’ve moved from a world of scarcity to a world of abundance with all kinds of media assets and products,' he added. 'But the thing that defines the trading card business is a physical scarcity of the cards. So (Dapper) created these NFTs with the idea of scarcity combined with authenticity because of the way the blockchain works.'” [Citation](/citations.md)
 
